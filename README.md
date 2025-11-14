@@ -10,5 +10,3 @@ X5: World Crude Oil per Barrel (Rupiah)
 Xt: Indonesia Gold Price per Gram (Rupiah)
 
 Source: Investing.com, Bank Indonesia
-
-Dashboard: https://public.tableau.com/app/profile/azalia.fitriana.bagardini/viz/PengelompokanUKTMahasiswa/Overview
